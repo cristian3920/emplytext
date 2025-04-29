@@ -1,4 +1,4 @@
-# emplytext
+
 # EcoRecolecciones
 
 Sistema de gestión para el reciclaje de residuos orgánicos e inorgánicos.
